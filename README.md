@@ -17,7 +17,10 @@ This is my final project on Tajikistan
 ![](ezgif.com-video-to-gif.gif)
 
 
-## Vanj district of Tajikistan.
+## Vanj district of Tajikistan
 
 ![](Tajikistan.gif)
+
+## Health Infrastructure of Tajikistan
+![](TJK_Health.png)
 
