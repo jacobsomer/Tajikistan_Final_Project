@@ -14,9 +14,8 @@ This is my final project on Tajikistan
 
 ## Population of Tajikistan's Districts 
 
-
-
 ![](ezgif.com-video-to-gif.gif)
+
 
 ## Vanj district of Tajikistan.
 
